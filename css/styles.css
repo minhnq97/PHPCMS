@@ -1,0 +1,38 @@
+body {
+	background-color: #2f4050;
+}
+
+.col-sm-10 {
+	background-color: white;
+	min-height: 520px;
+}
+
+#side-menu a{
+	 color: #9fb1c2;
+}
+
+#side-menu .active a{
+	 color: white;
+	 background-color: #27aae1;
+	 font-weight: bold;
+}
+
+#side-menu a:hover{
+	 color: white;
+	 background-color: #1ab394;
+	 font-weight: bold;
+	 display: block;
+}
+
+#footer{
+	padding: 10px;
+	border-top: 1px solid black;
+	color: #eeeeee;
+	background-color: black;
+	text-align: center;
+}
+
+div.btn-group{
+	padding-top: 0px;
+}
+

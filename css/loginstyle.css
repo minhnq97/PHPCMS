@@ -1,0 +1,93 @@
+body {
+	/*background-color: #4842f4;*/
+	background-image: url("../img/background.jpg") !important;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	/*text-decoration-color: white;*
+	/
+}
+
+.container {
+	/*background-color: #4842f4;*/
+}
+
+form button {
+	width: 20% !important;
+	margin-top: 56px;
+}
+
+span.forget {
+	margin-top: 10px;
+	float: right;
+	margin-right:75px;
+	font-size: 12px;
+}
+div.checkbox {
+	margin-top: 10px;
+	float: left;
+	margin-left: 75px;
+	font-size: 12px;
+	font-style: italic
+}
+
+
+img.card-img-top{
+	border-radius: 50%;
+	width: 60%;
+	margin: 15% 15%;
+}
+
+img.center-block{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card{
+	margin-top: 10%;
+	padding: 15px;
+	background-color :rgba(255,255,255,0.2)!important;
+	border: none!important;
+}
+
+.register {
+	margin-top: 20px;
+}
+
+.login {
+	margin-top: 30px;
+}
+
+div.input-group{
+	/*margin: 10px 0px 10px 0px;*/
+	width: 70%;
+	margin : 0 auto;
+	margin-bottom: 35px;
+
+}
+
+.form-group{
+	text-align: center;
+}
+
+div.nopadding {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.userInfo {
+	margin-top: 15%;
+}
+
+h2.card-title{
+	margin-bottom: 35px;
+}
+
+.btnregister{
+	margin-top: 30px;
+}

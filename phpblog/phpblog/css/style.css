@@ -1,0 +1,89 @@
+body {
+  background-color: #d3e2d4;
+  font: 'Ubuntu Condensed', sans-serif;
+}
+#body {
+  width: 400px;
+  margin: 100px auto;
+  background-color: gray;
+  height: 100%;
+  border-radius: 4px;
+}
+.bar {
+  height: 80px;
+  /* padding: 10px 10px; */
+  background-color: #f7ffce;
+}
+.menu{
+  float: left;
+  width: 12px;
+  margin: 12px;
+}
+.menu span {
+  width: 13px;
+  margin: 5px 0px;
+  height: 1px;
+  display: block;
+  background-color: black;
+}
+.bar p {
+  float: left;
+  margin-top: 12px; 
+  font-size: 15px;
+}
+
+#sideMenu {
+  /*margin-top: 100px;*/
+}
+
+div.thumbnail {
+  padding: 10px ;
+  overflow: hidden;
+}
+
+.list-group-item a{
+  text-decoration: none;
+}
+
+li .list-group-item.active{
+  background-color: gray;
+}
+
+span.fa {
+  padding: 18px;
+  font-size: 18px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+

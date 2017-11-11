@@ -1,0 +1,39 @@
+body {
+	/*background-color: #4842f4;*/
+	background-image: url("../img/background.jpg") !important;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	/*text-decoration-color: white;*
+	/
+}
+
+.container {
+	/*background-color: #4842f4;*/
+}
+
+form button {
+	margin-top: 15px;
+}
+
+span.forget {
+	margin-top: 10px;
+	float: right;
+}
+div.checkbox {
+	float: left;
+}
+
+div.avatar img{
+	border-radius: 50%;
+	width: 250px;
+	margin: 30% 15%;
+}
+
+div.input-group{
+	margin: 10px 0px 10px 0px;
+}
